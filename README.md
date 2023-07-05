@@ -1,6 +1,6 @@
 # farmsetu_weather
 
-A new Flutter project.
+A new Flutter project. In this project, I used Getx with an MVC pattern
 
 ## Getting Started
 
